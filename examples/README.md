@@ -8,7 +8,7 @@ Click on each image to view in full size.
 
 ### 💡 Income & Finance Visualizations
 
-[![Income Statement Template](./Sankey%20Diagram%20-%20Income-Statement-Templates-in-Excel.png)](./Sankey%20Diagram%20-%20Income-Statement-Templates-in-Excel.png)
+[![Income Statement Template](./Sankey%20Diagram%20-%20Income-Statment-Templates-in-Excel.png)](./Sankey%20Diagram%20-%20Income-Statment-Templates-in-Excel.png)
 **Income Statement Template in Excel**
 
 [![Cash Flow Monthly](./Sankey%20Diagram%20-%20Monthly-Cash-Flow-Template-in-Excel.png)](./Sankey%20Diagram%20-%20Monthly-Cash-Flow-Template-in-Excel.png)
@@ -43,7 +43,7 @@ Click on each image to view in full size.
 [![Cash Flow Example](./Sankey-Diagram-Excel-Examples-of-Cash-Flow-Analysis%20-%2001.png)](./Sankey-Diagram-Excel-Examples-of-Cash-Flow-Analysis%20-%2001.png)
 **Cash Flow Analysis Example**
 
-[![Visual Analytics in Excel](./Sankey%20Diagram%20in%20Excel%20-%20Visual-Analytics-in-Excel-Discover-Patterns-in-Complex-Systems.png)](./Sankey%20Diagram%20in%20Excel%20-%20Visual-Analytics-in-Excel-Discover-Patterns-in-Complex-Systems.png)
+[![Visual Analytics in Excel](./Sankey%20Diagram%20Excel%20-%20Visual-Analytics-in-Excel-Discover-Patterns-in-Complex-Systems.png)](./Sankey%20Diagram%20Excel%20-%20Visual-Analytics-in-Excel-Discover-Patterns-in-Complex-Systems.png)
 **Visual Analytics for Complex Systems**
 
 ---
