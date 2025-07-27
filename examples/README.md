@@ -1,4 +1,4 @@
-# Sankey Diagram Examples
+# Sankey Diagram Examples - ChartEngine for Excel
 
 This folder contains real-world examples of Sankey diagrams created with the ChartEngine Excel add-in.
 
