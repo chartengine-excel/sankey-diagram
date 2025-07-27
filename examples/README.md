@@ -1,4 +1,4 @@
-## 📊 Sankey Diagram Examples Gallery
+## 📊 How to create a Sankey Diagram in Excel? Gallery
 
 Below you’ll find a selection of real-world Sankey diagram examples created with the ChartEngine Excel add-in.
 
@@ -56,17 +56,32 @@ This P&L Sankey diagram compares income to expenses and directly shows the resul
 
 ### ⚙️ Advanced Use Cases
 
-[![Energy Flow](./Sankey-Diagram%20Excel%20-%20Energy-flow-diagram-Clean-Energy-Allocation.png)](./Sankey-Diagram%20Excel%20-%20Energy-flow-diagram-Clean-Energy-Allocation.png)
 **Clean Energy Flow Allocation**
+Maps energy input sources (e.g. solar, wind, hydro) to various consumption endpoints (like transport, heating). Particularly valuable for sustainability reporting and environmental impact analysis.
+
+[![Energy Flow](./Sankey-Diagram%20Excel%20-%20Energy-flow-diagram-Clean-Energy-Allocation.png)](./Sankey-Diagram%20Excel%20-%20Energy-flow-diagram-Clean-Energy-Allocation.png)
+
+---
+
+**Three-Statement Financial Model**
+Integrates the income statement, balance sheet, and cash flow statement into a cohesive flow model, offering a comprehensive view of financial interactions. Often used in corporate finance and investment banking models.
 
 [![3-Statement Model](./Sankey-Diagram-3-Statement-Financial-Model-in-Excel-02.png)](./Sankey-Diagram-3-Statement-Financial-Model-in-Excel-02.png)
-**Three-Statement Financial Model**
+
+---
+
+**Cash Flow Analysis Example**
+Highlights the dynamic movement of cash through business operations, investing, and financing activities. Designed for detailed cash management strategies and investor reporting.
 
 [![Cash Flow Example](./Sankey-Diagram-Excel-Examples-of-Cash-Flow-Analysis%20-%2001.png)](./Sankey-Diagram-Excel-Examples-of-Cash-Flow-Analysis%20-%2001.png)
-**Cash Flow Analysis Example**
+
+---
+
+**Visual Analytics for Complex Systems**
+This advanced diagram explores interrelated processes in complex systems—ideal for data science, systems engineering, or operations research. It helps reveal hidden dependencies and cyclical flows in intricate workflows.
 
 [![Visual Analytics in Excel](./Sankey%20Diagram%20Excel%20-%20Visual-Analytics-in-Excel-Discover-Patterns-in-Complex-Systems.png)](./Sankey%20Diagram%20Excel%20-%20Visual-Analytics-in-Excel-Discover-Patterns-in-Complex-Systems.png)
-**Visual Analytics for Complex Systems**
+
 
 ---
 
